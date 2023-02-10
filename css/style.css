@@ -37,7 +37,7 @@ fieldset{
 	form {
 		display: flex;
 		font-size:26px;
-		text-align:center;
+		text-align:right;
 		margin: 0 auto;
 		width: 50%;
 		
