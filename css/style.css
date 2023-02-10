@@ -16,6 +16,9 @@ form{
 	
 	
 }
+.box{
+flex-direction: middle;
+}
 
 input[type="dob"] {
   width: 100px; 
