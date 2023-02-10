@@ -17,7 +17,7 @@ form{
 	
 }
 
-input[type="submit"] {
+input[type="dob"] {
   width: 100px; 
   height: 30px; 
   font-size: 20px;
@@ -30,8 +30,8 @@ input[type="submit"] {
 fieldset{
 	margin: 0 auto;
 	width: 50%;
-	background-color: yellow;
-	border: 2px solid black;
+	background-color: rgb(84, 43, 151);
+	border: 2px solid rgb(180, 59, 162);
 }
 
 @media screen and (min-width: 950px){
@@ -44,7 +44,7 @@ fieldset{
 		
 	}
 	
-	#email_I, #phonenumber, #dob, #submitbutton {
+	.email_I, .phonenumber, .dob, .submitbutton {
     width: 95%;
     margin-bottom: 0;
 	text-align:left;
